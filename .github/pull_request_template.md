@@ -4,13 +4,13 @@ Describe what this pull request changes and why.
 
 ## Changes
 
-- 
-- 
+- Describe the first change.
+- Describe any additional changes.
 
 ## How to test
 
-1. 
-2. 
+1. Describe the first test step.
+2. Describe the expected result.
 
 ## Checklist
 
