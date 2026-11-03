@@ -1,3 +1,3 @@
 # TaskFlow
 
-TaskFlow is an intern bootcamp project for learning Git, GitHub, and full-stack software engineering.
+TaskFlow is a hands-on training repository for learning collaborative software development.
